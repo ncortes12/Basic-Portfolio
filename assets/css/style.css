@@ -1,0 +1,175 @@
+body    
+        {background:url(../images/dust_scratches/dust_scratches.png);
+        color:#777777;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0 auto;}
+    
+h1      
+        {color:#4aaaa5;
+        border-bottom:2px solid #cccccc;
+        padding:100px;}
+
+.content
+        {width:70%;
+        height:90%;
+        position:absolute;
+        left:200px;
+        background-color:#ffffff;}
+
+.content-portfolio 
+        {width:70%;
+        height:115%;
+        position:absolute;
+        left:200px;
+        background-color:#ffffff;}
+
+.header 
+        {background-color:#ffffff;
+        border-bottom: 2px solid #cccccc;
+        height:100px;}
+             
+.name 
+        {background-color:#4aaaa5;
+        color:white;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size:28px;
+        width:12%;
+        height:50px;
+        float:left;
+        position:absolute;
+        left:200px;
+        top:37px;
+        padding-left:20px;
+        padding-top:15px;
+        padding-right:20px;}
+        
+a 
+        {color:#777777;
+        text-decoration:none;}
+         
+#about 
+        {float:left;
+        position:absolute;
+        left:70%;
+        top:45px;
+        height:20px;
+        padding-right:10px;
+        border-right-style:solid;
+        border-right-color:#cccccc;
+        border-right-width: 1px;}
+        
+#portfolio 
+        {float:left;
+        position:absolute;
+        left:74%;
+        top:45px;
+        height:20px;
+        padding-right:10px;
+        border-right-style:solid;
+        border-right-color:#cccccc;
+        border-right-width: 1px;}
+        
+#contact 
+        {float:left;
+        position:absolute;
+        left:79.5%;
+        top:45px;
+        height:20px;
+        padding-right:10px;}
+        
+#purpose 
+        {height:50px;
+        border-bottom:2px solid #cccccc;
+        font-size:28px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        padding:10px;
+        padding-top:20px;
+        margin-bottom:30px;
+        margin-right:15px;
+        margin-left:15px;}
+
+#me    
+        {width:200;
+        height:200px;
+        float:left;
+        margin-left:15px;
+        margin-bottom:20px;}
+
+#paragraph1
+        {float:left;
+        margin-left:15px;
+        margin-right:15px;
+        width:70%;
+        line-height:2;}
+
+#paragraph2 
+        {float:left;
+        margin-left:15px;
+        margin-right:15px;
+        margin-top:15px;
+        line-height:2;}
+
+#img1 
+        {position: absolute;
+        top: 125px;
+        left: 20px;
+        z-index: 1;}
+
+#project1
+        {position:relative;
+        top:10;
+        z-index: 2px;
+        height:25px;
+        background-color:#4aaaa5;
+        color:#ffffff;}
+        
+#img2 
+        {position:absolute;
+        top: 125px;
+        left:300px;}
+        
+ #img3  {position: absolute;
+        top: 350px;
+        left: 20px;}
+
+#img4 
+        {position:absolute;
+        top: 350px;
+        left:300px;}
+                
+#img5 
+        {position: absolute;
+        top: 575px;
+        left: 20px;}
+
+.boxtitle 
+        {font-size:24px;
+        margin-left:20px;
+        margin-bottom:5px;}
+
+.infobox 
+        {border:1px solid #cccccc;
+        margin-left:20px;
+        margin-right:20px;
+        width:90%;
+        height:20px;
+        font-size:14px;
+        padding-top:5px;
+        padding-left:5px;
+        margin-bottom:5px;}
+
+.largeinfobox
+        {border:1px solid #cccccc;
+        margin-left:20px;
+        margin-right:20px;
+        width:90%;
+        height:20px;
+        font-size:14px;
+        padding-top:5px;
+        padding-left:5px;
+        margin-bottom:5px;}
+
+
+
+
+        
