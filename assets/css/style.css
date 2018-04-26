@@ -18,13 +18,6 @@ h1
         left:200px;
         background-color:#ffffff;}
 
-.content-portfolio 
-        {width:70%;
-        height:960px;
-        position:absolute;
-        left:200px;
-        background-color:#ffffff;}
-
 .header 
         {background-color:#ffffff;
         border-bottom: 2px solid #cccccc;
@@ -110,84 +103,8 @@ a
         margin-top:15px;
         line-height:2;}
 
-#img1 
-        {position: relative;
-        left: 20px;
-        z-index: 1;}
-
-.project
-        {position:absolute;
-        z-index: 2px;
-        top:150px;
-        height:25px;
-        width:160px;
-        padding-top:5px;
-        padding-left:90px;
-        background-color:#4aaaa5;
-        color:#ffffff;}
-        
-#img2 
-        {position:relative;
-        left:300px;
-        top:-201px}
-
-        
- #img3  {position: relative;
-        top: -175px;
-        left: 20px;}
 
 
-#img4 
-        {position:relative;
-        top: -375px;
-        left:300px;}
-                
-#img5 
-        {position: relative;
-        top: -350px;
-        left: 20px;}
-
-.boxtitle 
-        {font-size:24px;
-        margin-left:20px;
-        margin-bottom:5px;}
-
-.infobox 
-        {border:1px solid #cccccc;
-        margin-left:20px;
-        margin-right:20px;
-        width:90%;
-        height:20px;
-        font-size:14px;
-        padding-top:5px;
-        padding-left:5px;
-        margin-bottom:5px;}
-
-#largebox
-        {border:1px solid #cccccc;
-        margin-left:20px;
-        margin-right:20px;
-        width:90%;
-        height:300px;
-        font-size:14px;
-        padding-top:5px;
-        padding-left:5px;
-        margin-bottom:5px;
-        }
-
-#submit
-        {background-color:#4aaaa5;
-        color:white;
-        font-family:Georgia, 'Times New Roman', Times, serif;
-        font-size:24px;
-        width:12%;
-        height:40px;
-        position:absolute;
-        bottom:45px;
-        margin-left:20px;
-        padding-left:35px;
-        padding-top:15px;
-        padding-right:20px;}
 
 footer {position:absolute;
         bottom:-300px;
@@ -201,18 +118,6 @@ footer {position:absolute;
         vertical-align:baseline;
         }
 
-#portfolio-footer 
-        {position:absolute;
-        bottom:-560px;
-        width:100%;
-        height:75px;
-        border-top:4px solid #4aaaa5;
-        background-color:#666666;
-        color:#cccccc;
-        font-size:12px;
-        text-align:center;
-        vertical-align: bottom;
-        }
 #copyright{position:relative;
            bottom:-60px;}
 
