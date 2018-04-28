@@ -11,7 +11,7 @@ h1
         padding:10px;}
 
 .content
-        {width:70%;
+        {width:960px;
         height:700px;
         margin-bottom:50px;
         position:absolute;
@@ -28,7 +28,6 @@ h1
         color:white;
         font-family:Georgia, 'Times New Roman', Times, serif;
         font-size:28px;
-        width:12%;
         height:50px;
         position:absolute;
         left:200px;
@@ -115,8 +114,7 @@ footer {position:absolute;
         color:#cccccc;
         font-size:12px;
         text-align:center;
-        vertical-align:baseline;
-        }
+       }
 
 #copyright{position:relative;
            bottom:-60px;}
